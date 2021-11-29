@@ -1,4 +1,4 @@
-baseURL = "https://shamilnabiyev.github.io"
+baseURL = "https://shamilnabiyev.github.io/"
 languageCode = "en-us"
 title = "Shamil's Blog"
 theme = "noteworthy"
