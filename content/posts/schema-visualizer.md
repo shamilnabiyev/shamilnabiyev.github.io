@@ -16,6 +16,8 @@ Schema Visualizer is an online data modeling tool for JSON and document based da
 
 <!--more-->
 
-![Schema Visualizer](/img/schema-visualizer-screenshot.png)
+<center>
+    <img src="/img/schema-visualizer-screenshot.png" alt="Schema Visualizer" width="400"/>
+</center>
 
 Source code is available on [GitHub](https://github.com/shamilnabiyev/schema-visualizer)
