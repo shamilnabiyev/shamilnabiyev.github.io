@@ -1,6 +1,6 @@
 baseURL = "https://shamilnabiyev.github.io"
 languageCode = "en-us"
-title = "Noteworthy"
+title = "Shamil's Blog"
 theme = "noteworthy"
 enableRobotsTXT = true
 paginate = 4 # Set the number of posts to show before overflowing to the next page.
@@ -26,9 +26,9 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 [params]
     math = true
     # Blog description at the top of the homepage. Supports markdown.
-    description = "Noteworthy is a minimalist Hugo theme, perfect for writers and bloggers."
+    description = "Hey, my name is Shamil Nabiyev. Welcome to my blog."
 
-    showReadMore = false
+    showReadMore = true
 
     # Set enableKofi to true to enable the Ko-fi support button. Add your Ko-fi ID to link to your account.
     enableKofi = false
@@ -41,11 +41,6 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 
     # Writing
     # medium = "#"
-    # blogger = "#"
-    # wordpress = "#"
-
-    # Audio & Music
-    # soundcloud = "#"
 
     # Programming
     github = "https://github.com/shamilnabiyev"
@@ -56,30 +51,32 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
     # Academic
     googlescholar = "https://scholar.google.com/citations?user=ZZP59ioAAAAJ"
     researchgate = "https://www.researchgate.net/profile/Shamil_Nabiyev"
-    # orcid = "#"
-
-    # Travel
-    # googlemaps = "#"
-    # tripadvisor = "#"
 
 # Menu links along the sidebar navigation.
+[[menu.main]]
+    identifier = "homepage"
+    name = "Homepage"
+    url = "/"
+    weight = 1 # Weight is an integer used to sort the menu items. The sorting goes from smallest to largest numbers. If weight is not defined for each menu entry, Hugo will sort the entries alphabetically.
+
+
 [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 1 # Weight is an integer used to sort the menu items. The sorting goes from smallest to largest numbers. If weight is not defined for each menu entry, Hugo will sort the entries alphabetically.
+    weight = 2 # Weight is an integer used to sort the menu items. The sorting goes from smallest to largest numbers. If weight is not defined for each menu entry, Hugo will sort the entries alphabetically.
 
 [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     name = "Archives"
     identifier = "archives"
     url = "/archives/"
-    weight = 3
+    weight = 4
 
 # Privacy configurations: https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
