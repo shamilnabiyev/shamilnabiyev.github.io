@@ -7,12 +7,6 @@ paginate = 4 # Set the number of posts to show before overflowing to the next pa
 summaryLength = 10 # Configure how long the post summary should be on the homepage.
 ignoreErrors = ["error-missing-instagram-accesstoken"]
 
-# Add your Google Analytics identifier: UA-XXXXXXXX-X
-# googleAnalytics = ""
-
-# Add your Disqus shortname here.
-# disqusShortname = ""
-
 [taxonomies]
   tag = "tags"
 
@@ -81,22 +75,22 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 # Privacy configurations: https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
   [privacy.disqus]
-    disable = false
+    disable = true
   [privacy.googleAnalytics]
     anonymizeIP = true
-    disable = false
-    respectDoNotTrack = false
+    disable = true
+    respectDoNotTrack = true
     useSessionStorage = false
   [privacy.instagram]
-    disable = false
+    disable = true
     simple = false
   [privacy.twitter]
-    disable = false
+    disable = true
     enableDNT = false
     simple = false
   [privacy.vimeo]
-    disable = false
+    disable = true
     simple = false
   [privacy.youtube]
-    disable = false
+    disable = true
     privacyEnhanced = true
