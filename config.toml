@@ -1,6 +1,6 @@
 baseURL = "https://shamilnabiyev.github.io/"
 languageCode = "en-us"
-title = "Shamil's Blog"
+title = "my blog"
 theme = "noteworthy"
 enableRobotsTXT = true
 paginate = 4 # Set the number of posts to show before overflowing to the next page.
