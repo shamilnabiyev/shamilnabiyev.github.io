@@ -1,10 +1,11 @@
 ---
 author: "Shamil Nabiyev"
-title: "Hpo Optuna"
+title: "Hyperparameter optimization using Optuna"
 date: 2025-06-06T21:25:54+02:00
 tags: [
-    "tag1",
-    "tag2"
+    "python",
+    "optuna",
+    "hpo"
 ]
 draft: false
 ---
