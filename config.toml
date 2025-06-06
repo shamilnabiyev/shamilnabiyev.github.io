@@ -14,7 +14,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
   tag = "tags"
 
 [author]
-    name = "kimcc"
+    name = "Shamil Nabiyev"
 
 # Set to false to disallow raw HTML in markdown files
 [markup.goldmark.renderer]
@@ -23,7 +23,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 [params]
     math = true
     # Blog description at the top of the homepage. Supports markdown.
-    description = "Hey, my name is Shamil Nabiyev. Welcome to my notepad."
+    description = "Hey, my name is Shamil Nabiyev. Welcome to my Notepad."
 
     showReadMore = true
 
