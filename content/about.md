@@ -4,8 +4,4 @@ type: section
 title: "About"
 ---
 
-Hey, my name is Shamil Nabiyev. Welcome to my blog.  I'll post here short articles about Data Engineering, Data Modeling, Data Science, Machine Learning, JSON-Schema etc.   
-
-
-Check out my [GitHub](https://github.com/gohugoio) profile .
-
+This blog is my personal notebook - a living collection of solutions that I use to make life easier. Here, I document the solutions I discover, the tools I find useful, and the lessons I learn along the way.
