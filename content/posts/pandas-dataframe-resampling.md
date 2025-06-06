@@ -3,8 +3,8 @@ author: "Shamil Nabiyev"
 title: "Pandas Dataframe resampling"
 date: "2022-07-17"
 tags: [
-    "tag1",
-    "tag2"
+    "python",
+    "pandas"
 ]
 draft: false
 ---
