@@ -1,3 +1,3 @@
-# Shamil's Blog
+# Shamil's Notepad
 
-My personal blog, where I post short articles about Data Engineering, Data Modeling, Data Science, Machine Learning, JSON-Schema etc. https://shamilnabiyev.github.io
+This blog is my personal notepad. Here, I document the solutions I discover, the tools I find useful, and the lessons I learn along the way: https://shamilnabiyev.github.io
