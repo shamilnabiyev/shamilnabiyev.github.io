@@ -1,8 +1,8 @@
 /* VARIABLES ========================================================================== */
 
 // COLORS
-$teal: #0174f0;
-$teal-darker: #0360c4;
+$teal: #63BDA2;
+$teal-darker: #359377;
 $gray-background: #F7F7F7;
 $gray-table-border: #EEEEEE;
 $gray-lightest: #D2D2D2;
@@ -10,7 +10,6 @@ $gray-light: #ABABAB;
 $gray-medium: #898989;
 $gray-dark: #5F5F5F;
 $highlight: #FFEC5C;
-$svg-icon-hover: #65a6eb;
 
 // FONTS
 $serif: "Noto Serif","Segoe UI","Helvetica Neue",Helvetica,Roboto,FreeSans,serif;
@@ -486,7 +485,7 @@ footer {
     }
 
     .social-icon>svg:hover {
-        fill: $svg-icon-hover;
+        fill: $gray-medium;
     }
 
     a {
