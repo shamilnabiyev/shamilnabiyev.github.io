@@ -1,7 +1,7 @@
 baseURL = "https://shamilnabiyev.github.io/"
 languageCode = "en-us"
 title = "Shamil's Notepad"
-theme = "noteworthy"
+theme = "hugo-paper"
 enableRobotsTXT = true
 # paginate = 10 # Set the number of posts to show before overflowing to the next page.
 summaryLength = 5 # Configure how long the post summary should be on the homepage.
