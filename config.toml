@@ -1,6 +1,6 @@
 baseURL = "https://shamilnabiyev.github.io/"
 languageCode = "en-us"
-title = "Shamil's Notebook"
+title = "Shamil's Notepad"
 theme = "noteworthy"
 enableRobotsTXT = true
 paginate = 4 # Set the number of posts to show before overflowing to the next page.
@@ -20,7 +20,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 [params]
     math = true
     # Blog description at the top of the homepage. Supports markdown.
-    description = "Hey, my name is Shamil Nabiyev. Welcome to my notebook."
+    description = "Hey, my name is Shamil Nabiyev. Welcome to my notepad."
 
     showReadMore = true
 
