@@ -20,7 +20,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 [params]
     math = true
     # Blog description at the top of the homepage. Supports markdown.
-    description = "Hey, my name is Shamil Nabiyev. Welcome to my blog."
+    description = "Hey, my name is Shamil Nabiyev. Welcome to my notebook."
 
     showReadMore = true
 
@@ -30,8 +30,8 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 
     # Add links to your accounts. Remove the ones you don't want to include.
     # Main
-    email = "shamil.nabiyev@stud.h-da.de"
-    linkedin = "https://de.linkedin.com/in/shamil-nabiyev"
+    # email = "shamil.nabiyev@stud.h-da.de"
+    # linkedin = "https://de.linkedin.com/in/shamil-nabiyev"
 
     # Writing
     # medium = "#"
@@ -43,8 +43,8 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
     # codepen = "#"
 
     # Academic
-    googlescholar = "https://scholar.google.com/citations?user=ZZP59ioAAAAJ"
-    researchgate = "https://www.researchgate.net/profile/Shamil_Nabiyev"
+    # googlescholar = "https://scholar.google.com/citations?user=ZZP59ioAAAAJ"
+    # researchgate = "https://www.researchgate.net/profile/Shamil_Nabiyev"
 
 # Menu links along the sidebar navigation.
 [[menu.main]]
@@ -66,11 +66,11 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
     url = "/tags/"
     weight = 3
 
-[[menu.main]]
-    name = "Archives"
-    identifier = "archives"
-    url = "/archives/"
-    weight = 4
+# [[menu.main]]
+#     name = "Archives"
+#     identifier = "archives"
+#     url = "/archives/"
+#     weight = 4
 
 # Privacy configurations: https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
