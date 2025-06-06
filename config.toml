@@ -3,9 +3,12 @@ languageCode = "en-us"
 title = "Shamil's Notepad"
 theme = "noteworthy"
 enableRobotsTXT = true
-paginate = 10 # Set the number of posts to show before overflowing to the next page.
+# paginate = 10 # Set the number of posts to show before overflowing to the next page.
 summaryLength = 5 # Configure how long the post summary should be on the homepage.
 ignoreErrors = ["error-missing-instagram-accesstoken"]
+
+[pagination]
+  pagerSize = 10
 
 [taxonomies]
   tag = "tags"
@@ -84,7 +87,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
   [privacy.instagram]
     disable = true
     simple = false
-  [privacy.twitter]
+  [privacy.x]
     disable = true
     enableDNT = false
     simple = false
