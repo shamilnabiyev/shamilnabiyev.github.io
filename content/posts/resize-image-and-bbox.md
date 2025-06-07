@@ -1,5 +1,4 @@
 ---
-author: "Shamil Nabiyev"
 title: "Resize an image and bbox"
 date: "2022-11-17"
 tags: [

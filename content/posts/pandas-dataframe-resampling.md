@@ -1,5 +1,4 @@
 ---
-author: "Shamil Nabiyev"
 title: "Pandas Dataframe resampling"
 date: "2022-07-17"
 tags: [

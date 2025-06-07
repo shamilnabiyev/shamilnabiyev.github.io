@@ -1,5 +1,4 @@
 ---
-author: "Shamil Nabiyev"
 title: "Add Python Venv to Jupyther Notebook"
 date: "2022-04-22"
 tags: [

@@ -1,5 +1,4 @@
 ---
-author: "Shamil Nabiyev"
 title: "Numpy3d array to Sktime panel data"
 date: "2022-05-22"
 tags: [

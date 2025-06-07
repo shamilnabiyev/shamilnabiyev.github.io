@@ -1,5 +1,4 @@
 ---
-author: "Shamil Nabiyev"
 title: "Tensorflow dataset pipeline"
 date: "2022-09-02"
 tags: [

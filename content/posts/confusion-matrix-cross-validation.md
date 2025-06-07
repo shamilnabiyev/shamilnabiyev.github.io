@@ -1,5 +1,4 @@
 ---
-author: "Shamil Nabiyev"
 title: "Confusion matrix for cross validation"
 date: "2022-11-02"
 tags: [

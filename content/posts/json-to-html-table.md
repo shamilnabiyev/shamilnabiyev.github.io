@@ -1,5 +1,4 @@
 ---
-author: "Shamil Nabiyev"
 title: "Json to Html table"
 date: "2019-10-18"
 tags: [

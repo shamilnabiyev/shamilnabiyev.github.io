@@ -1,5 +1,4 @@
 ---
-author: "Shamil Nabiyev"
 title: "Elapsed time"
 date: "2022-07-25"
 tags: [

@@ -1,7 +1,6 @@
 ---
-author: "Shamil Nabiyev"
 title: "Hyperparameter optimization using Optuna"
-date: 2025-06-06T21:25:54+02:00
+date: "2022-10-31"
 tags: [
     "python",
     "optuna",

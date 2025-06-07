@@ -1,5 +1,4 @@
 ---
-author: "Shamil Nabiyev"
 title: "Mlflow Quickstart"
 date: "2022-05-22"
 tags: [

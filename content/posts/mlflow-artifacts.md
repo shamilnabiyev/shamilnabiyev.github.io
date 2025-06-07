@@ -1,5 +1,4 @@
 ---
-author: "Shamil Nabiyev"
 title: "Mlflow artifacts"
 date: "2022-09-03"
 tags: [

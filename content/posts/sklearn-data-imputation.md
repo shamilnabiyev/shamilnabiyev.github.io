@@ -1,5 +1,4 @@
 ---
-author: "Shamil Nabiyev"
 title: "Sklearn data imputation"
 date: "2021-11-09"
 tags: [

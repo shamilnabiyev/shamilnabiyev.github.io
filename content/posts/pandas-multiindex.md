@@ -1,5 +1,4 @@
 ---
-author: "Shamil Nabiyev"
 title: "Pandas Multi-Index"
 date: "2022-07-14"
 tags: [

@@ -1,5 +1,4 @@
 ---
-author: "Shamil Nabiyev"
 title: "Read tempfile"
 date: "2022-07-08"
 tags: [

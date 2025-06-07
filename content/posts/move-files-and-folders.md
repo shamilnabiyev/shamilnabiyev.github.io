@@ -1,5 +1,4 @@
 ---
-author: "Shamil Nabiyev"
 title: "Move files and folders"
 date: "2019-06-19"
 description: "Move files and folders"

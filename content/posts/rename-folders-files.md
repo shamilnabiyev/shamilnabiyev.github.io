@@ -1,5 +1,4 @@
 ---
-author: "Shamil Nabiyev"
 title: "Rename using Python"
 date: "2019-06-02"
 description: " Rename multiple subfolders and files in python"
