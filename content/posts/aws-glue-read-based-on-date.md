@@ -1,5 +1,5 @@
 ---
-title: "AWS Glue - read based on date"
+title: "Read S3 objects based on date in AWS Glue"
 date: "2024-09-30"
 tags: [
     "aws",

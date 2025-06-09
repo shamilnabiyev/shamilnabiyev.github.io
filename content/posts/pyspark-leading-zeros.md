@@ -1,5 +1,5 @@
 ---
-title: "PySpark DF - add leading zeros"
+title: "Add leading zeros to PySpark DataFrame"
 date: "2024-12-02"
 tags: [
     "python",

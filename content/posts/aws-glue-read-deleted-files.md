@@ -1,5 +1,5 @@
 ---
-title: "Aws Glue - read deleted files"
+title: "Read deleted S3 objects in AWS Glue"
 date: "2024-09-30"
 tags: [
     "aws",
