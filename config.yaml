@@ -81,8 +81,8 @@ params:
       The Notepad covers a variety of topics, including Data Engineering, Machine Learning, Linux tools, Time Series Analysis, and Computer Vision tasks.
   socialIcons:
     - name: github
-      title: View Source on Github
-      url: "https://github.com/shamilnabiyev/shamilnabiyev.github.io"
+      title: GitHub/shamilnabiyev
+      url: "https://github.com/shamilnabiyev"
 
   assets:
     disableHLJS: true
