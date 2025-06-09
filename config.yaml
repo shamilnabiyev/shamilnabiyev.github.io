@@ -1,4 +1,4 @@
-baseURL: "https://shamilnabiyev.github.io/hugo-PaperMod/"
+baseURL: "https://shamilnabiyev.github.io"
 title: "Shamil's Notepad"
 theme: [hugo-PaperMod]
 
@@ -76,7 +76,9 @@ params:
   homeInfoParams:
     Title: "Welcome to my Notepad"
     Content: >
-      This microblog is my personal notepad. Here, I document the solutions and tools I find useful, and the lessons I learn along the way.
+      This is my personal Notepad. Here, I document the solutions and tools I find useful, and the lessons I learn along the way.
+
+      The Notepad covers a variety of topics, including Data Engineering, Machine Learning, Linux tools, Time Series Analysis, and Computer Vision tasks.
   socialIcons:
     - name: github
       title: View Source on Github
@@ -84,6 +86,11 @@ params:
 
   assets:
     disableHLJS: true
+    favicon: "/favicon/favicon.ico"
+    favicon16x16: "/favicon/favicon-16x16.png"
+    favicon32x32: "/favicon/favicon-32x32.png"
+    apple_touch_icon: "/favicon/apple-touch-icon.png"
+    safari_pinned_tab: "/favicon/safari-pinned-tab.svg"
 
 markup:
   goldmark:
